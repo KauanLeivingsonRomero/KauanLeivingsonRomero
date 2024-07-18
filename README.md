@@ -1,6 +1,6 @@
 <h1>Sobre Mim</h1>
 
-<h4>Olá, sou Kauan Leivingson Romero, 18 anos, sou programador Front-End Junior com experiência em React native e React JS. Uso Figma para fazer design de projetos, e apoio na decisão de ideias.</h4>
+<h4>Olá, sou Kauan Leivingson Romero, 19 anos, sou programador Front-End Junior com experiência em React native e React JS. Uso Figma para fazer design de projetos, e apoio na decisão de ideias.</h4>
 
 <h2>Editores: </h2>
 
